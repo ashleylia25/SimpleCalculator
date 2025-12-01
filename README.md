@@ -1,1 +1,1 @@
-## faktorial nefunguje xddddd
+## oukej kecam funguje to
